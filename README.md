@@ -1,5 +1,5 @@
 # SticklebackParalogMethylation
-This repository contains R scripts used to analyze duplicate gene DNA methylation in threespine sticklebacks.
+This repository contains R scripts used to analyze duplicate gene DNA methylation in threespine sticklebacks. R v3.6 was used.
 
 ## Files and main output files
 
